@@ -3,3 +3,10 @@ print(list[:8])
 print(list[1:])
 print(list([1:2:1])
 print(list[-1 ])
+print(list[-1:])
+print(list[-1:-3])
+print([-1:-2:-1])
+
+ #bolean
+name=input["are you goin to manali ?"]
+    
